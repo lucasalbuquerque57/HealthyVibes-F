@@ -26,7 +26,7 @@ export default function Index() {
             href="https://remix.run/tutorials/blog"
             rel="noreferrer noopener"
           >
-            15m Quickstart Blog Tutorial
+            15m Quickstart Blog Tutorial DENIS
           </a>
         </li>
         <li>
