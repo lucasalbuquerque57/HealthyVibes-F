@@ -14,11 +14,6 @@ module.exports = {
   ignoredRouteFiles: ["**/.*"],
   // See https://remix.run/docs/en/main/file-conventions/route-files-v2
   future: {
-    v2_dev: true,
-    v2_errorBoundary: true,
-    v2_headers: true,
-     v2_meta: false,
-    v2_normalizeFormMethod: true,
     v2_routeConvention: true,
   },
   serverDependenciesToBundle: [
