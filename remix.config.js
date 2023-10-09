@@ -15,10 +15,7 @@ module.exports = {
   // See https://remix.run/docs/en/main/file-conventions/route-files-v2
   future: {
     v2_routeConvention: true,
-  },
-  serverDependenciesToBundle: [
-    /^axios.*/,
-],
+  }
   // add your own custom config here if you want to.
   //
   // See https://remix.run/docs/en/v1/file-conventions/remix-config
