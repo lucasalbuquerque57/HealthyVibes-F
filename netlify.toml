@@ -1,5 +1,6 @@
 [build]
-command = "remix build && cp _app_redirects public/_redirects"
+command = "remix build"
+commandOrigin = "config"
 publish = "public"
 
 [dev]
